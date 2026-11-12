@@ -1,3 +1,5 @@
+# (ChatGPT made it...don't blame me)
+
 # CSTUICTSyl
 
 A small, database-free Next.js portal for the Chandpur Science and Technology University (CSTU) Bachelor of Science in ICT curriculum (Session 2021–2022 onward).
