@@ -1,0 +1,1111 @@
+{
+  "semesters": [
+    {
+      "name": "1st Year · 1st Semester",
+      "courses": [
+        "ICT 1101|Structured Programming Language",
+        "ICT 1102|Structured Programming Language Sessional",
+        "EEE 1101|Introduction to Electrical Engineering",
+        "EEE 1102|Introduction to Electrical Engineering Sessional",
+        "PHY 1121|Physics",
+        "PHY 1122|Physics Sessional",
+        "MATH 1121|Differential and Integral Calculus",
+        "STAT 1121|Statistics",
+        "HSS 1121|English"
+      ]
+    },
+    {
+      "name": "1st Year · 2nd Semester",
+      "courses": [
+        "ICT 1201|Data Structure",
+        "ICT 1202|Data Structure Sessional",
+        "ICT 1203|Object Oriented Programming",
+        "ICT 1204|Object Oriented Programming Sessional",
+        "ICT 1205|Discrete Mathematics",
+        "CHEM 1221|Chemistry",
+        "CHEM 1222|Chemistry Sessional",
+        "MATH 1221|Ordinary Differential Equations (ODE), Partial Differential Equations (PDE) and Vector Calculus",
+        "HSS 1221|Bangladesh Studies"
+      ]
+    },
+    {
+      "name": "2nd Year · 1st Semester",
+      "courses": [
+        "ICT 2101|Algorithm Design and Analysis",
+        "ICT 2102|Algorithm Design and Analysis Sessional",
+        "ICT 2103|Microprocessor and Assembly Language",
+        "ICT 2104|Microprocessor and Assembly Language Sessional",
+        "ICT 2105|Data Communication",
+        "ICT 2106|Data Communication Sessional",
+        "EEE 2101|Electronic Device & Circuit",
+        "EEE 2102|Electronic Device & Circuit Sessional",
+        "MATH 2121|Matrix and Coordinate Geometry",
+        "HSS 2121|Sociology"
+      ]
+    },
+    {
+      "name": "2nd Year · 2nd Semester",
+      "courses": [
+        "ICT 2201|Database Management System",
+        "ICT 2202|Database Management System Sessional",
+        "ICT 2203|Digital Logic Design",
+        "ICT 2204|Digital Logic Design Sessional",
+        "ICT 2205|Operating System",
+        "ICT 2206|Operating System Sessional",
+        "ICT 2208|Numerical Analysis Sessional",
+        "MATH 2221|Linear Algebra, Laplace Transformation and Fourier Analysis",
+        "HSS 2221|Financial, Cost and Managerial Accounting"
+      ]
+    },
+    {
+      "name": "3rd Year · 1st Semester",
+      "courses": [
+        "ICT 3101|Information System Analysis and Design",
+        "ICT 3102|Information System Analysis and Design Sessional",
+        "ICT 3103|Digital Signal Processing",
+        "ICT 3104|Digital Signal Processing Sessional",
+        "ICT 3105|Computer Network",
+        "ICT 3106|Computer Network Sessional",
+        "ICT 3108|Web Technology Sessional",
+        "ICT 3109|Computer Architecture",
+        "HSS 3121|Economics"
+      ]
+    },
+    {
+      "name": "3rd Year · 2nd Semester",
+      "courses": [
+        "ICT 3201|Software Engineering",
+        "ICT 3202|Software Engineering Sessional",
+        "ICT 3203|Computer Graphics and Animation",
+        "ICT 3204|Computer Graphics and Animation Sessional",
+        "ICT 3205|Theory of Computation",
+        "ICT 3206|Mobile Application Development Project",
+        "ICT 3207|Cyber Security",
+        "ICT 3208|Cyber Security Sessional",
+        "HSS 3221|Professional Ethics in ICT"
+      ]
+    },
+    {
+      "name": "4th Year · 1st Semester",
+      "courses": [
+        "ICT 4101|Artificial Intelligence",
+        "ICT 4102|Artificial Intelligence Sessional",
+        "ICT 4103|Interfacing",
+        "ICT 4104|Interfacing Sessional",
+        "ICT 4105|Mobile and Wireless Communication",
+        "ICT 4106|Mobile and Wireless Communication Sessional",
+        "ICT ****|Option-I",
+        "ICT ****|Option-I Sessional",
+        "ICT 4000|Project / Thesis",
+        "ICT 4002|Industrial Training"
+      ]
+    },
+    {
+      "name": "4th Year · 2nd Semester",
+      "courses": [
+        "ICT 4201|Distributed System",
+        "ICT 4202|Distributed System Sessional",
+        "ICT 4203|Machine Learning",
+        "ICT 4204|Machine Learning Sessional",
+        "ICT ****|Option-II",
+        "ICT ****|Option-II Sessional",
+        "ICT ****|Option-III",
+        "ICT ****|Option-III Sessional",
+        "ICT 4000|Project / Thesis"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "code": "ICT 1101",
+      "title": "Structured Programming Language",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Structured programming language: data types, operators, expressions, control structures; Functions and program structure: parameter passing conventions, scope rules and storage classes, recursion; Header files; Preprocessor; Pointers and arrays; Strings; Multidimensional array; User defined data types: structures, unions, enumerations; Input and Output: standard input and output, formatted input and output, file access; Variable length argument list; Command line parameters; Error Handling; Graphics; Linking; Library functions. Reference language: C.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 1102",
+      "title": "Structured Programming Language Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Sessional based on ICT 1101; A project work will be included.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "EEE 1101",
+      "title": "Introduction to Electrical Engineering",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Direct current: voltage, current, resistance and power; Laws of electrical circuits and methods of network analysis; Introduction to filters: Passive and Active filters; Alternating current: Instantaneous and rms values of current, voltage and power, average power, for various combination of R, L and C circuits, phasor representation of sinusoidal quantities; Balanced three phase circuit circuits; Ideal operational amplifier circuits.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "EEE 1102",
+      "title": "Introduction to Electrical Engineering Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "1st Year · 1st Semester",
+      "description": "Sessional based on EEE 1101.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "PHY 1121",
+      "title": "Physics",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Structure of Matter: Structure of Matter. Different Types of Bonds in Solids: Metallic, Van Dar Waals‟, Covalent and Ionic Bond, Packing in Solids: Inter Atomic Distances and Forces of Equilibrium, X-Ray Diffraction, Bragg‟s Law. Distinction Insulator, Semiconductor and Conductor. Atomic Physics: Atom Models: Thomson Atom Model, Rutherford Atom Model, Rutherford Scattering Formula, Electron Orbits, Bohr Atom Model, Energy Levels and Spectra, Particle Properties of Waves: Photoelectric Effect, Einstein‟s Photoelectric Equation, Laws of Photoelectric Emission, Photovoltaic Cells, Compton Effect. Wave Properties of Particle: De Broglie Waves, Group Velocity, Phase Velocity. Waves and Oscillations: Oscillations: Simple Harmonic Motion, Composition of Simple Harmonic Motions and Lissajous‟ Figures, Damped and Forced Oscillations. Resonance. Waves: Travelling and Standing Waves, Energy Calculation of Traveling and Standing Waves, Intensity of Waves. Beats, Doppler Effect. Theories of Light: Wave Theory: Huygens Wave Theory. Huygen‟s Principle and Construction, Superposition of Light Waves. Electromagnetic Theory. Particle Theory: Newton‟s Corpuscular Theory, Quantum Theory of Light. Interference: Introduction, Conditions of Interference, Young‟s Double Slit Experiment, Fresnel‟s Biprism. Thin Film Interference, Interference Due to Multiple Reflection, Newtons Ring. Diffraction: Fresnel‟s and Fraunhoper Diffraction, Diffraction by Single and Double Slit, Diffraction Gratings. Polarization: Introduction, Methods of Producing Polarized Light, Polarization by Reflection and Refraction, Polarization by Double Refraction, Constrauvtion of Nicol Prism, Production and Analysis of Polarized Light, Optical Activity, Optics of Crystals, Polarimeters.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "PHY 1122",
+      "title": "Physics Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "1st Year · 1st Semester",
+      "description": "Sessional based on PHY 1121.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "MATH 1121",
+      "title": "Differential and Integral Calculus",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Differential Calculus: Continuity and differentiability; Leibnitz’s forms; Lagrange’s form of remainders; Cauchy’s form of remainder; Expansion of functions; Evaluation of indeterminate forms by L ’Hospitals rule; Partial differentiation; Euler’s Theorem; Tangent and Normal; Sub- tangent and subnormal in Cartesian and polar coordinates; Maximum and minimum values of functions of single variable. Integral Calculus: Definite integrals and its properties; Wally’s formula; Improper integrals; Beta function and Gamma function; Area under a plane curve in Cartesian and polar coordinates; Area of the region enclosed by two curves in Cartesian and polar coordinates; Arc lengths of curves in Cartesian and polar coordinates; Volume of solids of revolution; Area of surface of revolution; Multiple integrals.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "STAT 1121",
+      "title": "Statistics",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "Frequency distribution, mean, median, mode and other measure of central tendency. Standard deviation and measure of dispersion, moments, skewness and kurtosis. Elementary probability theory, Characteristics of distributions. Elementary sampling theory, Estimation, Hypothesis testing and regression analysis. Probability distribution and expectations, discontinuous probability distribution e.g. binomial, position and negative binomial, continuous distributions e.g. normal and exponential.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "HSS 1121",
+      "title": "English",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 1st Semester",
+      "description": "English Phonetics: the places and manners of articulation of English sounds; Vocabulary: techniques of enriching stock of words; English Grammar: construction of sentences; common grammatical problems; Reading: techniques and strategies for improving comprehension skills; prose pieces by renowned authors; Writing: developing paragraphs as the building blocks of larger discourses; Business Correspondence: importance, classifications and structures; Report: types and layout of reports; Technical Writing: research paper; dissertation and thesis; technical proposals; instruction manual.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 1201",
+      "title": "Data Structure",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Internal data representation; Abstract data types; Elementary asymptotic analysis: growth of functions, O, Ω and Θ notations; Elementary data structures: arrays, linked lists, stacks, queues, trees and tree traversals, graphs and graph representations, heaps, binary search trees; Sorting: heap sort, merge sort, quick sort; Data structures for set operations; Advanced data Structures: balanced binary search trees (AVL trees, red-black trees, splay trees, skip lists), advanced heaps (Fibonacci heaps, binomial heaps); Hashing.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 1202",
+      "title": "Data Structure Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Sessional based on ICT 1201.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 1203",
+      "title": "Object Oriented Programming",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Philosophy of Object Oriented Programming (OOP); Advantages of OOP over structured programming; Encapsulation, classes and objects, access specifiers, static and non-static members; Constructors, destructors and copy constructors; Array of objects, object pointers, and object references; Inheritance: single and multiple inheritance; Polymorphism: overloading, abstract classes, virtual functions and overriding; Exceptions; Object Oriented I/O; Template functions and classes; Multi-threaded Programming. Reference languages: C++ and Java.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 1204",
+      "title": "Object Oriented Programming Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Sessional based on CSE ICT 1203; A project work will be included.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 1205",
+      "title": "Discrete Mathematics",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Set theory: sets, relations, and partial ordered sets; functions; Mathematical Logic: propositional calculus and predicate calculus; Mathematical reasoning and proof techniques; Counting: permutations, combinations, principles of inclusion and exclusion; Discrete",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "CHEM 1221",
+      "title": "Chemistry",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Chemistry of Semiconductor Materials: Definition, types and properties. Effect of temperature on Semiconductor. Physical and Chemical Properties of Boron, Silicon, Gallium, Germanium, Arsenic and Antimony. Preparation of Pure Silicon. Nuclear Chemistry: Radioactivity of Nucleus, Definition, types, effect ad properties of radioactive elements. Nuclear stability, Mass defects, Nuclear binding energy. Energy released in radiation. Nuclear reaction, reactor and safety. Chemical Bonding: Ionic Bond, Covalent Bond, Co-ordination Bond, Metallic Bond, Hydrogen Bond, Dipole Bond, Vander Waal's Forces, Hybridization, Resonance, Valence Bond Theory (VBT), Molecular Orbital Theory (MOT), Liner Combination of Atomic Orbital (LCAO) Method. Conductivity of Electrolytic Solution: Type of Conductors, Conductance, Specific Conductance, Equivalent Conductance, Mechanism of Electrolytic Conductance, Factors Influencing Conductivity, Arrhenius Theory, Law of Independent Migration of Ions and its Applications, Determination of Transport Number, Abnormal Conductance, Conductometric Titration. Electromotive Forces: Electrochemical Cell, Cell Reaction, Cell Potential, Cell Representation, Measurement of EMF of a Cell, Relation Between EMF and Free Energy, Electrode Potential, Electrochemical Series, Nernest's Equation, Different Types of Reference Electrodes and pH Measurement, Over Potential, Lithium Ion Battery, Fuel Cell its latest development. Photochemistry: Photochemical Reactions, Laws of Photochemistry, Quantum Yield and its determination, Photosensitized reaction, Photo-physical Processes. Polymer: Classification, Bonding in Polymer, Thermosetting and Thermoplastic Polymer, Synthesis, Properties and Uses of Some Polymers-Polyethylene, PVC, Bakelite, and Melamine etc. Rubber: Importance, Latex, Cude Natural Rubber, Gitta-percha, Compounding and Vulcanization of Rubber, Synthesis and Properties of Neoprene Rubber, Buna-S Rubber, Nitrile Rubber and Silicon Rubber, Reclaimed Rubber.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "CHEM 1222",
+      "title": "Chemistry Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Sessional based on CHEM 1221.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "MATH 1221",
+      "title": "Ordinary Differential Equations (ODE), Partial Differential Equations (PDE) and Vector Calculus",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Ordinary Differential Equation (ODE): Degree and order of ordinary differential equation; Formation of differential equations; Solution of first order differential equations by various methods; Solution of first order but higher degree ordinary differential equations; Solution of general linear equations of second and higher orders with constant coefficients; Solution of homogeneous linear equations and its applications; Solution of differential equations of higher order when dependent and independent variables are absent. Partial Differential Equations (PDE): Introduction; Solution of linear and non-linear PDE of order one; Second order linear PDE: its nomenclature and classifications to standard forms: Parabolic Elliptic and Hyperbolic; Solution of second order linear PDE by separation of variables; Higher order linear PDE with constant coefficients. Vector Calculus: Multiple products of vectors; Differentiation and integration of vectors together with elementary applications; Gradient, divergence and curl of point functions; Various formulae; Definition of line, surface and volume integrals; Green’s theorem; Gauss’s theorem; Stoke’s theorem.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "HSS 1221",
+      "title": "Bangladesh Studies",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "1st Year · 2nd Semester",
+      "description": "Introduction to the course and its objectives. History and Society of Bengal under the British rule and Pakistan rule: The impact of British and Pakistan rules on the economy and education of the people. Language Movement of 1952, Events Leading to the Mass Upsurge of 1969, War of Independence and the Emergence of Bangladesh in 1971. Study of Geography and Resources of Bangladesh: Location, Area, Boundary, Ecological Settings, River System, Climate, People and Resources of Bangladesh. Social Structure of Bangladesh. Culture of Bangladesh: Language, Literature, Art and Culture of Bangladesh. Politics, Formation and role of major political parties in Bangladesh and Constitutional development of Bangladesh. Economy of Bangladesh. Achievements in different sectors (economy, culture, sports etc.) of Bangladesh. Socio-cultural problems and prospects of Bangladesh.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2101",
+      "title": "Algorithm Design and Analysis",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Efficient algorithm designing techniques: Divide-and-Conquer paradigm, Greedy method, Dynamic programming, Backtracking, Branch and bound; Flow algorithms; Approximation Algorithms; Introduction to parallel and randomized algorithms; Search and traversal: Basic search and traversal technique, Shortest path problems, Topological sorting, Connected components, Spanning trees; Graph algorithms. Analysis of algorithms: Complexity Analysis, Solving Recurrences, Correctness and loop invariants, Algebraic simplification and transformations, Lower bound theory, NP completeness, NP-hard and NP-complete problems.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2102",
+      "title": "Algorithm Design and Analysis Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Sessional based on ICT 2101",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 2103",
+      "title": "Microprocessor and Assembly Language",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Microcomputer System: Introduction to Different Types of Microprocessors and its Applications, Organization of Intel 8086/8088 Microprocessor, the Component of Microcomputer System, I/O Device, Interrupt Structures, I/O Interfacing, DMA, Co-Processors, RISC Processors, Power PC Processor, CISC Processor, Direct Video RAM Accessing, Memory Module. Introduction of Assembly Language: Program Structure and its Components, Few Basic Instruction, Input/Output Instruction. Flag Register and Flow Control: The Flag Register, Flow Control Instructions, Conditional and Unconditional Jumps, Branching and Looping Structures Logic and Arithmetic Operation: Logic, Shift and Rotate Instruction, Multiplication and Division Instructions. Arrays and Data Structure: Arrays and Related Addressing Modes, DUP Operator, Register Indirect Modes, Based and Indexed Addressing Modes, Basic Stack Operations, Procedures Declaration, Communication between Procedures, Calling a Procedure.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2104",
+      "title": "Microprocessor and Assembly Language Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Sessional based on ICT 2103.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 2105",
+      "title": "Data Communication",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Introduction to signals; Review of Fourier Transform; Frequency Response of Linear Systems; Analog Modulation: AM, DSB-SC, SSB-SC, VSB, FM, PM; Introduction to digital data communication; Sampling theorem; Quantization; Pulse modulation: PAM, PDM, PPM, PCM, delta modulation, differential PCM; Intersymbol interference; Pulse shaping; Line coding; Digital modulation: ASK, FSK, BPSK, QPSK, Offset QPSK, π/4-shifted QPSK, MSK, GMSK, QAM; Multiple access techniques: TDM, FDM; Random processes; Additive White Gaussian Noise (AWGN); Error rate due to noise; Introduction to information theory; Concept of channel coding and capacity.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2106",
+      "title": "Data Communication Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Sessional based on ICT 2107.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "EEE 2101",
+      "title": "Electronic Device & Circuit",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Introduction to semiconductors; Bipolar Junction Transistor (BJT): Bipolar Junction Transistor (BJT): principle of operation, I-V characteristics; Transistor circuit configurations (CE, CB, CC), BJT biasing, load lines; BJTs at low frequencies; Hybrid model, h parameters, simplified hybrid model; Small-signal analysis of single and multi-stage amplifiers, frequency response of BJT amplifier. Field Effect Transistors (FET): principle of operation of JFET and MOSFET; Depletion and enhancement type NMOS and PMOS; biasing of FETs; Low and high frequency models of FETs, Switching circuits using FETs; Introduction to CMOS; OPAMP: linear applications of OPAMPs, gain, input and output impedances, active filters, frequency response and noise, Non-linear applications of OP AMP; DAC-ADC: A/D and D/A converters with applications; Sample and hold",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "EEE 2102",
+      "title": "Electronic Device & Circuit Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Sessional based on EEE 2101.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "MATH 2121",
+      "title": "Matrix and Coordinate Geometry",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Matrix: Definition of Matrix, equality of two matrices, Addition, Subtraction and Multiplication of Matrices, Transpose of matrices and inverse of matrix and Rank of Matrices, Solve of simultaneous equation by matrix methods. Coordinate Geometry: Transformation of co-ordinate axes and its uses; equation of conics and its reduction to standard forms; Pair of straight lines; Homogeneous equations of second degree; Angle between a pair of straight lines; Pair of lines joining the origin to the point of intersection of two given curves, circles; System of circles; Orthogonal circles; Radical axis, radical centre, properties of radical axsx; Coaxial circles and limiting points; Equations of parabola, ellipse and hyperbola in Cartesian and polar co-ordinates; Co-ordinate Geometry of three dimensions; System of co-ordinates, Distance of two points, Section formula, Projections, Directions cosines, Equations of planes and lines.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "HSS 2121",
+      "title": "Sociology",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 1st Semester",
+      "description": "Society, Science and Technology; Social Research: Methods, Social Impact Assessment (SIA); Culture, civilization and professional ethics; Socialization and leadership development; Social stratification and social mobility; Globalization, mass media and technology; Deviance, crime, and",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2201",
+      "title": "Database Management System",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Concepts of database systems; Data Models: Entity-Relationship model, Relational model; Query Languages: Relational algebra, SQL; Intermediate SQL: Join operations, Views; Advanced SQL: Constraints and triggers; Functional dependencies and normalization; File organization and data storage; Indexing: primary and secondary indexes, B+ trees, hash tables; Query optimization; Transaction management: Transaction concept, ACID Properties , Concurrent Executions, Serializability ; Recovery; Concurrency control: Lock-Based Protocols, Timestamp-Based Protocols, Multiple Granularity; Access control and security; Distributed Databases; Semi- structured database: XML, XPath, XQuery; Object oriented and object relational databases; Introduction to NoSQL database;",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2202",
+      "title": "Database Management System Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Sessional based on ICT 2201",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 2203",
+      "title": "Digital Logic Design",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Digital logic: Boolean algebra, De Morgan’s Theorems, logic gates and their truth tables, canonical forms, combinational logic circuits, minimization techniques; Arithmetic and data handling logic circuits, decoders and encoders, multiplexers and demultiplexers; Combinational circuit design; Flip-flops; race around problems; Counters: asynchronous and synchronous counters and their applications; Asynchronous and synchronous logic design: State diagram, Mealy and Moore machines; State minimizations and assignments; Pulse mode logic; Fundamental mode design; PLA design; Design using MSI and LSI components.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2204",
+      "title": "Digital Logic Design Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "33 | P a g e Sessional based on ICT 2203; Reference tool: Verilog; Shall include Implementations in Hardware.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 2205",
+      "title": "Operating System",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Operating system: its role in computer systems; multitasking, multiuser, multiprocessing OS; Operating system structures; Process: process concept and scheduling, inter-process communication, communication in client-server systems; CPU scheduling: scheduling criteria and algorithms, thread scheduling, multiple-processor scheduling; Process synchronization: critical- section problem, semaphores, monitors; Deadlock: resource allocation and deadlock, deadlock detection, prevention and recovery; Memory management: swapping, paging, segmentation, virtual memory; Input/ Output: hardware, software, disk, terminals, clocks; File Systems: files, directories, security, protection; Case study of some operating systems.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 2206",
+      "title": "Operating System Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Sessional based on ICT 2205.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 2208",
+      "title": "Numerical Analysis Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Locating roots of equations, number representation and errors, using MATLAB for mathematical experiments, numerical methods for nonlinear equations, numerical differentiation, numerical integration, Interpolation by polynomials and by spline functions, system of linear equations, numerical methods for ordinary differential equations, numerical methods for partial differential equations, Numerical optimization.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "MATH 2221",
+      "title": "Linear Algebra, Laplace Transformation and Fourier Analysis",
+      "credits": 4,
+      "contactHours": 4,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Linear Algebra: Introduction to systems of linear equations; Gaussian elimination; Inverse of a matrix; Eigen values and eigen vectors; Cayley-Hamilton theorem; Euclidean n-space; Linear transformations from IRn to IRm; Properties of linear transformations from IRn to IRm; Real vector spaces and subspaces; Basis and Dimension, Change of basis, Rank and Nullity; Inner product spaces; Diagonalization; Linear transformations: Kernel and Range.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "HSS 2221",
+      "title": "Financial, Cost and Managerial Accounting",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "2nd Year · 2nd Semester",
+      "description": "Financial Accounting: Basic Accounting Concepts; Accounting as an Information System; Computerized Accounting System; Conceptual Framework of Accounting; Double Entry Mechanism; Accounting Equation; Introduction to Journal Accounting; Posting to Ledger Accounts; Preparing Trial Balance; Adjusting Entries, Preparing an Adjusted Trial Balance; Preparing Financial Statements; Financial Statements Analysis & Interpretation. Cost and Management Accounting: Cost Concepts, Cost Classifications & Cost Functions; Job Order Costing & Preparing Job Cost Sheet; Cost Allocation; Cost Volume Profit Analysis; Variable Costing Vs. Absorption Costing; Short Term Investment Decision: Relevant & Differential Cost Analysis; Long- term Investment Decision: Capital Budgeting; Working Capital Management; Linear Programming for Management Decision. 3rd Year 1st Semester",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3101",
+      "title": "Information System Analysis and Design",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Introduction to Information System and Environment: Introduction to system, characteristics, organization and elements of system. Types of system. System Development Life Cycle: Introduction to SDLC, Feasibility study, Analysis, Design, Implementation, Post Implementation and Maintenance, Consideration for candidate system. Role of the System Analyst. System planning and Initial Investigation, Information process and stages of System Design, Input/ Output and Form Design, File Structure and organization. Database Design: Objective, Key terms, physical and logical views of Data, Data structure, Normalization System.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3102",
+      "title": "Information System Analysis and Design Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Sessional based on ICT 3101.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3103",
+      "title": "Digital Signal Processing",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Discrete time signals and systems: Fourier and Z transforms, DFT, 2-dimensional versions; Linear time invariant discrete time systems; Digital signal processing topics: flow graphs, realizations, FFT, quantization effects, linear prediction; Digital filter design methods: windowing, frequency sampling, S-to-Z methods, frequency-transformation methods, optimization methods, 2- dimensional filter design; Quantization of signals and filter coefficients; Oversampling techniques for ADC and DAC.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3104",
+      "title": "Digital Signal Processing Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Sessional based on ICT 3103.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3105",
+      "title": "Computer Network",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Introduction to Computer Networks; Protocol hierarchies; Data link control: Link layer and services; Error Detection and Correction; Multiple access protocol: Standards IEEE 802.*; Hubs, Bridges, and Switches, Fast Ethernet; Routing architecture and algorithms; IPV4, IPV6, ARP, RARP; Introduction to transport layer: UDP,TCP; Principles of Reliable data transfer, Principles of congestion control, TCP, Congestion control; Application layer services: Web, HTTP, FTP, SMTP,",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3106",
+      "title": "Computer Network Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Sessional based on ICT 3105.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3108",
+      "title": "Web Technology Sessional",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Introduction to Html, Java Script & CSS, Server Side Programming: HTTP Server, Application Server, MVC Web Framework, Web Services, Database Access: Object Relational Mapping, Lambda Expression, Language Integrated Query, Data Reader, Writer, Web Security: Denial of Service, Buffer Overflow, Cross Site Scripting, Authentication and Access Control.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3109",
+      "title": "Computer Architecture",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Introduction to Computer Architecture: Internal Structure of Processor/CPU–Registers, PC, ALU, CU, etc. Bus Architecture and Processor Interaction with Memory and Peripherals, Memory Hierarchy in Terms of Cache Memory, Main Memory, Secondary Storage, Memory Organization into Bytes and Words; Big-Endian and Little-Endian Organization, Computer Peripherals, Introduction to Von Neumann SISD Organization, RISC and CISC Machines. Review: Representation of Strings, Binary and Hex Integer Representations and Conversions, Signed and Unsigned Formats; 2's Complement, Computer Integer Arithmetic, Fixed-Point Arithmetic, IEEE Floating Point Representation and Arithmetic. Process and Control: Fetch-Execute Cycle, Encoding and Decoding of MIPS Machine Instructions, the MIPS CPU Instruction Set Syntax and Semantics, Addressing Modes, MIPS Assembly Language Programming, Register Usage Conventions, use of Stack and Stack-Frame for Supporting Function Calling with Parameters, Operating System Calls and I/O Operations. CPU and its Instruction Sets Design.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "HSS 3121",
+      "title": "Economics",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 1st Semester",
+      "description": "Economics and engineering; microeconomics and macroeconomics; theory of demand and supply and their elasticities; demand estimation; price determination; indifference curve technique; theory of production; theory of cost and cost estimation; market structure; national income accounting; depreciation; circular flow of income and expenditure; cost-benefit analysis; pay back period, net present value (NPV), internal rate of return (IRR), inflation; economic feasibility of engineering undertakings; Development Economics. 3rd Year 2nd Semester",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3201",
+      "title": "Software Engineering",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Concepts of software engineering: software engineering paradigms, different phases of software system development, different types of information, qualities of information; Project management concepts: software process and project metrics, software project planning, risk analysis and management, project scheduling and tracking, software cost analysis, COCOMO model; Analysis concepts and principles: requirement analysis, analysis modeling, data modeling; Design concepts and principles: architectural design, user interface design, object oriented software development and design, iterative development and the unified process, sequential waterfall life cycles, use case model for requirement writing, elaboration using system sequence diagram, domain model, visualizing concept classes; UML diagrams: Interaction and Collaboration Diagram for designing Software, class diagram; GoF design patterns: adapter, factory, singleton, strategy, composite, facade, and observer; Content management systems: concepts, planning and developing dynamic web content sites; Software testing: white box and black box testing, basis path testing, testing for specialized environment; Software testing strategies: unit testing, integration testing, validation testing, system testing; Art of debugging; Analysis of system maintenance and upgrading: software repair, downtime, error and faults, specification and correction, maintenance cost models, documentation; Software quality assurance: quality factors. software quality measures, cost impact of software defects, concepts of software reliability, availability and safety, function based metrics and bang metrics, metrics for analysis and design model, metrics for source code, testing and maintenance.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3202",
+      "title": "Software Engineering Sessional",
+      "credits": 1.5,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Sessional based on ICT 3201; Sample topics include following: Design pattern implementation, Software Prototyping, Software Testing, Software Documentation, etc.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3203",
+      "title": "Computer Graphics and Animation",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Introduction: History, Application of Computer Graphics (Computer Aided Design Animation), a Survey of Graphics I/O Devices and Types. Graphics Software Design: Survey of Desired Function, Toward a Universal Graphic Language. Display Files, Databases for Pictorial Applications. Graphics Techniques: Point-Plotting Techniques, Line Drawing, Geometric Transformations, Windowing and Clipping, Raster Graphics. Hardware for Computer Graphics: Typical Small and Large System, Graphic Terminals, Plotters, Graphic Display Processors, Device Independent Graphics Systems. Graphics Software: A Simple Graphic Package, Segmented Display Files, Geometric Models, Picture Structure. Interactive Graphics: Input Techniques, Event Handling, Three-Dimensional Graphics, Curves and Surfaces, 3-D Transformation. Hidden Surface Problem: Back Face Removal, Hidden-Line Removal Curved Surfaces, Describing Points, Lines and Polygons, Some Hints for Building Polygonal Models, Color Perception, RGBA and Color Index Mode, Dithering, Blending, 3-D Blending with the Depth Buffer, Antialiasing, Fog, Fog Equations, the OpenGL ARB. API Specifies: Data Types, Function Naming Conventions, Platform Independence, Drawing Shapes with OpenGL, Animation with OpenGL and GLUT. Drawing in Space: Lines, Points and Polygons. Co-ordinate Transformations: Understanding Transformations, Matrix Munching Projections, Matrix Manipulation Color Lighting and Materials, Texture Mapping.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3204",
+      "title": "Computer Graphics and Animation Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Sessional based on ICT 3203.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3205",
+      "title": "Theory of Computation",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Regular languages: regular expressions, nonregular languages; Finite automata: deterministic finite automata, nondeterministic finite automata, equivalence and conversion of deterministic and nondeterministic finite automata, pushdown automata; Context free languages: Context free grammars, ambiguity, Chomsky normal form, pumping lemma; Turing machines: basic machines, configuration, computing with Turing machines, combining Turing machines, Church-Turing thesis, Hilbert’s problems; Decidability: Decidable Languages, Undecidability, halting problem, Reducibility; Complexity: Time complexity, class P, class NP, NP completeness, space complexity, Savitch’s theorem.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3206",
+      "title": "Mobile Application Development Project",
+      "credits": 1.5,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Content: This course will introduce students to any one of the platforms in use on small and mobile devices. Platforms include Apple iPhone, Google Android and Microsoft Windows Phone. Introduction to mobile application development, Compare and contrast among various platforms namely iPhone, Android and Windows Phone. Setting up Development Environment: Installing Development Tools and SDKs, Language Basics and Syntax Revision (C and Objective-C for iPhone, Java for Android and C# for Windows Phone). Designing and Building Applications, XML Parsing, HTTP POST/GET Data Programming, App to App Communication, Tiles and Notifications, Maps and Location Based Application, Working with Multimedia (Camera, Images and Audio), Files and Storage, Network Programming, Game Development Concepts, Debugging, Testing & Deploying Applications to the market place.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 3207",
+      "title": "Cyber Security",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Introduction to Cyber security, Cyber Security Vulnerabilities, Emerging threats in cyber security, Types of cyber-attacks, cyber security incidents, Malware, Distributed Denial-of-service, Zero-day attack, Data Breaches, Security Risks Associated with Integrating Systems, Cyber Crimes, Threat analysis and Cyber Risk mitigation strategies, Security policy making, Security Information Management, Intrusion Solutions and Defense strategies, Security Technology, Intrusion detection approaches, Knowledge-based techniques, Misuse based techniques, Anomaly-based techniques, Statistics-based techniques, Hybrid techniques, Firewall, Rule-based access control, Phishing and other social engineering methods, Securing a cyber system, Block chain technology, Intrusion data sources, Cyber security data analysis, Cyber threat Intelligence, AI-based security systems.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 3208",
+      "title": "Cyber Security Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Sessional based on ICT 3207.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "HSS 3221",
+      "title": "Professional Ethics in ICT",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "3rd Year · 2nd Semester",
+      "description": "Introduction to Ethics: Definition of Ethics, Moral code, morality, importance of integrity, vices, virtues, Difference between morals, ethics, and law, Fostering good business ethics, establishing corporate code of ethics, Knowledge about ethical work environment. Ethics for IT Workers and IT Users: IT Profession, Professional Relationships that IT workers must manage, Ethical issues aroused in IT organizations, Professional code of ethics, professional organizations, certifications, government licensing, issues associated with the government licensing IT Workers, IT Professional malpractices, Common Ethical issues for IT Users, supporting the ethical practice of IT Users. Computer and Internet Crime: IT security incidents: a major concern, types of exploit, viruses, worms, trojan horses, botnet, rootkits, DDos attacks, phishing, spam, types of perpetrators. Privacy: Privacy protection and the law, GLBA Act, Information privacy, Fair Information Practices, European Union Data protection Directives, Key privacy and anonymity issues. Freedom of Expression: freedom expression, obscene speech, defamation, hate speech, key issues related with freedom of expressions, internet filtering, and anonymous communication. Intellectual Property: Intellectual property, copyright and infringement, copyright term, eligible works, fair use Doctrine, Software copyright protection, Patent, eligible works for patent, software patent, software cross-licensing agreements, Defensive publishing and patent trolls, submarine patents and patent farming, trade secret, key intellectual property issues. Ethics in software development and for IT organizations, social networking, Key ethical issues in social networking, digital divide, how to deal a particular case of any ethical issues in a company. 4th Year 1st Semester",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4101",
+      "title": "Artificial Intelligence",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 1st Semester",
+      "description": "Introduction to old and new AI techniques; Search techniques in AI; Constraint satisfaction problems; Game playing; Knowledge representation and reasoning; Propositional and first order logic, inference in first order logic; Planning; Probabilistic reasoning; Learning in symbolic and non-symbolic representation; Expert systems and knowledge engineering; Natural language processing; Computer vision and image understanding.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4102",
+      "title": "Artificial Intelligence Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 1st Semester",
+      "description": "Sessional based on ICT 4101.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4103",
+      "title": "Interfacing",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 1st Semester",
+      "description": "Serial communication interface; Computer BUS standards and their interfaces: ISA, PCI, AGP, PS/2 and USB; Interfacing with hard-disk; Printer interface; Barcodes, Barcodes reader and interfacing with them; Sound card and MIDI interface; Introduction to stepper motors and their interfacing; Interfacing with semiconductor power switches - BJT, MOSFET, SCR and Triac, Application of Opto-coupler and relays; Real Time Embedded Systems, Real Time Operating Systems, Embedded Communication Systems, Embedded Computer Security.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4104",
+      "title": "Interfacing Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 1st Semester",
+      "description": "Sessional based on ICT 4103.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4105",
+      "title": "Mobile and Wireless Communication",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 1st Semester",
+      "description": "Introduction to Wireless Communication Systems: Evolution of Mobile Radio Communications, Mobile Radiotelephony, Mobile Radio Systems Around the World, Examples of Wireless Communication Systems, Trends in Cellular Radio and Personal Communications. Introduction to Cellular Mobile Systems: Introduction, Basic Cellular System, Operation of Cellular Systems, Planning a Cellular Systems, Analog and Digital Cellular Systems. Elements of Cellular Radio System Design: General description, Frequency reuse channels, Cochannel Interference, Handoff Mechanism, Cell splitting, and Components of Cellular Systems. Cell Coverage for Signal and Traffic: General Introduction, Obtaining the Mobile Point – to- Point Model Propagation over Water or Flat Open Area, Foliage Loss, Propagation in Near in Distance, Long Distance Propagation, Obtain Path Loss from a Point-to-Point Prediction Model, Form of a Point-to Point Model, Computer Generation of a Point-to-Point Prediction, Cell-Site Antenna Heights and Signal Coverage Cells, Mobile-to Mobile Propagation. Frequency Management and",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4106",
+      "title": "Mobile and Wireless Communication Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 1st Semester",
+      "description": "Sessional based on ICT 4105.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-I",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 1st Semester",
+      "description": "",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-I Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 1st Semester",
+      "description": "Sessional based on Option-I.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4000",
+      "title": "Project / Thesis",
+      "credits": 3,
+      "contactHours": 6,
+      "semester": "4th Year · 1st Semester",
+      "description": "Topics Covered: As per design of faculty and university",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4002",
+      "title": "Industrial Training",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 1st Semester",
+      "description": "Topics Covered: As per design of faculty and university 4th Year 2nd Semester",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4201",
+      "title": "Distributed System",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Foundations - Characterization of DS, System Models, Networking and Inter-networking, Inter- process Communication, Remote Invocation, Indirect Communication and Operating System",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4202",
+      "title": "Distributed System Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Sessional based on ICT 4201.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4203",
+      "title": "Machine Learning",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Introduction to machine learning; Regression analysis: Logistic regression, linear regression; Classification techniques: Supervised and unsupervised classification; Neural networks; Support vector machines; Classification trees; Rule based learning; Instance based learning; Reinforcement learning; Ensemble learning; Negative correlation learning; Evolutionary algorithms; Genetic algorithm, Statistical performance evaluation techniques of learning algorithms: bias-variance tradeoff; Practical applications of machine learning.",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4204",
+      "title": "Machine Learning Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Sessional based on ICT 4203.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-II",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 2nd Semester",
+      "description": "",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-II Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Sessional based on Option-II.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-III",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "4th Year · 2nd Semester",
+      "description": "",
+      "optionalGroup": null,
+      "type": "Theory"
+    },
+    {
+      "code": "ICT ****",
+      "title": "Option-III Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Sessional based on Option-III.",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4000",
+      "title": "Project / Thesis",
+      "credits": 3,
+      "contactHours": 6,
+      "semester": "4th Year · 2nd Semester",
+      "description": "Topics Covered: As per design of faculty and university",
+      "optionalGroup": null,
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4107",
+      "title": "Virtual System and Services",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "System Architectures, Virtual Machine Basics, Process Virtual Machines, System Virtual Machines, Taxonomy of Virtual Machines, Emulation: Basic Interpretation, Threaded Interpretation, Pre-Coded and Direct Interpretation, Binary Translation, Full and Para- Virtualization, Types of Hypervisor, Types of Virtualization. Design of Scalable Enterprise Networks, Virtualizing the Campus, WAN Design, WAN Architecture, WAN virtualization, Virtual Enterprise Transport Virtualization, VLANs and Scalability, Theory Network Device Virtualization Layer 2, VLANs Layer 3 VRF Instances Layer 2, VFIs Virtual Firewall Contexts Network Device Virtualization.",
+      "optionalGroup": "Option I",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4108",
+      "title": "Virtual System and Services Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Virtual System and Services.",
+      "optionalGroup": "Option I",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4109",
+      "title": "IoT and Embedded System",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Combinational-Circuit Synthesis, Programmed Minimization Methods, Timing Hazards, Circuit Timing, Decoders, Encoders, Three-State Devices, Multiplexers, Exclusive-OR Gates, Parity Circuits, Comparators, Adders, Subtractors, ALUs, Combinational Multipliers Bistable Elements, Latches and Flip-Flops, Counters, Shift Registers, Clocked Synchronous State, Machine Analysis and Design, Designing State Machines Using State Diagrams, State-Machine Synthesis Using Transition Lists, State-Machine Design Example, Decomposing State Machines, Feedback Sequential Circuits and their Design Overview of Digital Design with Verilog HDL, Hierarchical Modeling Concepts, Basic Concepts, Modules and Ports, Gate Level Modeling, Dataflow Modeling, Behavioral Modeling, Tasks and Functions, Useful Modeling Techniques, Timing and Delays, User Defined Primitives, Logic Synthesis with Verilog HDL, Testbenches for verification of HDL models, Tools for mapping PLDs and FPGAs MOSFETs, FPGAs Integrated circuits Circuit boards, High-speed circuits, controlling impedances Read-Only Memory, Read/Write Memory, Static RAM, Dynamic RAM, Complex Programmable",
+      "optionalGroup": "Option I",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4110",
+      "title": "IoT and Embedded System Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on IoT and Embedded System.",
+      "optionalGroup": "Option I",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4111",
+      "title": "Data Science",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Overview of Data Science, Data Visualization, Decision Making and Predictive Analysis, Data Modeling and Optimization: modeling uncertainty and risk, optimization and modeling simultaneous decisions, Data Clustering: K-Means, K- Nearest Neighbors, Maxi-min, Association Rules Mining: AIS, SETM, Apriori, Aprioritid, Apriorihybrid, FP-growth, Dimensionality Reduction: need for dimensionality reduction, Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Deep Learning: Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated recurrent units (GRUs), Big Data: What, Why, Where and How?",
+      "optionalGroup": "Option I",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4112",
+      "title": "Data Science Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Data Science.",
+      "optionalGroup": "Option I",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4113",
+      "title": "Big Data Analytics",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Types of Digital Data, Big Data Analytics, History of Hadoop, Apache Hadoop, Analyzing Data with Unix tools, Analyzing Data with Hadoop, Hadoop Streaming, Hadoop Echo System, IBM Big Data Strategy, Introduction to Infosphere Big Insights and Big Sheets. HDFS Concepts, Command Line Interface, Hadoop file system interfaces, Data flow, Data Ingest with Flume and Scoop and Hadoop archives, Hadoop I/O: Compression, Serialization, Avro and File-Based Data structures.",
+      "optionalGroup": "Option I",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4114",
+      "title": "Big Data Analytics Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Big Data Analytics.",
+      "optionalGroup": "Option I",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4205",
+      "title": "Pattern Recognition and Image Processing",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Image formation, image geometry perspective and other transformation, stereo imaging elements of visual perception. Digital Image-sampling and quantization serial & parallel Image processing. Image Restoration-Constrained and unconstrained restoration Wiener filter, motion blur remover, geometric and radiometric correction Image data compression-Huffman and other",
+      "optionalGroup": "Option II",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4206",
+      "title": "Pattern Recognition and Image Processing Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Pattern Recognition and Image Processing.",
+      "optionalGroup": "Option II",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4207",
+      "title": "Optical Fiber Communication",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Introduction, why OFC is required, Advantages, Disadvantages of OFC, General system, Types of Optical fiber, Light propagation principle in optical fiber, Optical fiber cables, Optical windows, Applications of Optical Fiber Communication. Introduction, Ray theory transmission, Electromagnetic mode theory for optical propagation, Cylindrical fiber: Step index fibers, Graded index fibers, Single mode fibers, Multimode fibers.",
+      "optionalGroup": "Option II",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4208",
+      "title": "Optical Fiber Communication Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Optical Fiber Communication.",
+      "optionalGroup": "Option II",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4209",
+      "title": "Numeric Computation for Financial Modeling",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Computer Arithmetic, Measuring Errors, Approximating Derivatives with Finite Differences, Numerical Instability and Ill-Conditioning, Condition Number of a Matrix, A Primer on Algorithmic and Computational Complexity, Operation Count for Basic Linear Algebra Operations An example of a numerical solution, Classification of differential equations, The Black–Scholes equation, American options, A note on Matlab's function spdiags Monte Carlo Methods and Sampling, Uniform Random Number Generators, Nonuniform Distributions, Specialized Methods for Selected Distributions, Sampling from a Discrete Set, Sampling Errors—and How to Reduce them, Controlled Experiments and Experimental Design Single-Period Simulations, Simple Price Processes, Processes with Memory in the Levels of Returns, Time-Varying Volatility, Adaptive expectations and patterns in Price Processes, Historical Simulation, Agent-based Models and Complexity",
+      "optionalGroup": "Option II",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4210",
+      "title": "Numeric Computation for Financial Modeling Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Numeric Computation for Financial Modeling.",
+      "optionalGroup": "Option II",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4211",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Cloud computing definitions, Brief historical overview, Cloud delivery models, Ethics in cloud computing, Cloud and security. Cloud ecosystem, Cloud computing delivery models and services, Examples of modern cloud platforms (e.g. AWS, Google Cloud Platform, Microsoft Azure), Interoperability, Licensing, User experience. Overview of concurrent programming, Communication and concurrency, Coordination and synchronization, Load balancing. Overview of parallelism, Parallel architectures, Speedup and scaling, Modular distributed systems. Interconnection for clouds, Scalable communication architectures, Network resource management, Content delivery networks, Ad-hoc networks. Overview of storage systems and models, Distributed file systems, NoSQL databases, Data storage for online transaction processing systems, Dealing with large data, Reliability. Architecting cloud applications, Cloud application development, Workflow patterns, Examples and case studies: commercial applications, research applications, Dealing with software faults.",
+      "optionalGroup": "Option II",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4212",
+      "title": "Cloud Computing Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Cloud Computing.",
+      "optionalGroup": "Option II",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4213",
+      "title": "Data Mining and Warehousing",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Data Mining Definition & Functionalities, Data Processing, Data Preprocessing, Data Cleaning: Missing Values, Noisy Data, Inconsistent Data, Data Integration and Transformation. Data Reduction, Data Cube Aggregation, Dimensionality reduction, Data Compression, Numerosity Reduction, Clustering, Discretization and Concept hierarchy generation. Data Generalization, Analytical Characterization, Analysis of attribute relevance, Mining Class comparision, Statistical measures in large Databases. Measuring Central Tendency, Measuring Dispersion of Data, Graph Displays of Basic Statistical class Description, Mining Association Rules in Large Databases, Association rule mining, mining Single-Dimensional Boolean Association rules from Transactional Databases, Multilevel Association rules from Transaction Databases and Multi-Dimensional Association rules from Relational Databases Classification & Prediction definition, Issues regarding Classification and prediction, Decision tree, Bayesian Classification, Classification by Back propagation Algorithm, Classification methods K- nearest neighbor classifiers, Genetic Algorithm. Cluster Analysis, Categories of clustering methods, Partitioning methods. Hierarchical Clustering- CURE and Chameleon, Density Based Methods-DBSCAN, Statistical Approach, Neural Network approach, Outlier Analysis Overview, Definition, Delivery Process, Difference between Database System and Data Warehouse, Multi-Dimensional Data Model, Data Cubes, Stars, Snow Flakes, Fact Constellations, Concept hierarchy, Process Architecture, 3 Tier Architecture, Data Marting. Aggregation techniques, Historical information, Query Facility, OLAP function and Tools. OLAP Servers, ROLAP, MOLAP, HOLAP, Data Mining interface, Security, Backup and Recovery, Tuning Data Warehouse, Testing Data Warehouse.",
+      "optionalGroup": "Option III",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4214",
+      "title": "Data Mining and Warehousing Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Data Mining and Warehousing.",
+      "optionalGroup": "Option III",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4215",
+      "title": "Enterprise Information System",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "The need for IT in the organization, IT toolkit as a new driver for business efficiency. Traditional examples of doing business opposed to digital economy. Benefits of deploying IT solutions: tangible and intangible. Communication and collaboration with IT professionals. IT common trends. IT department, structure according to ITIL Information Systems concepts and definitions. Environment and infrastructure assessment for an information system. Databases and transaction processing. Functional Applications: Logistics, Operations, Sales and Marketing, Finance and Accounting, Human Resources Supply chain automation essentials, Resource planning, MRP, ERP, CSRP, CRM. Integration and global issues. BI Fundamentals, Historical review, BI solution architecture, BI process, Deployment issues. Transactional Information Systems and relational databases opposed to Analytical Information systems – addressing the needs for decision making. Choosing a DW architecture. Data extraction and upload. Data integration models. Usage of metadata. Building up multidimensional cubes. Non-relational and denormalized databases physical design. Defining measures and dimensions. Introducing ad-hoc reporting. KDD process definition. Types of interesting and potentially useful output patterns, common algorithms. Use cases in different industries and knowledge domains. A modern paradigm for strategic management, key to long term success and business development. Common steps for implementing BSC. Toolkit for data engineer and business analyst, take the most of BI at your enterprise to make it simple & convincing.",
+      "optionalGroup": "Option III",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4216",
+      "title": "Enterprise Information System Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Enterprise Information System.",
+      "optionalGroup": "Option III",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4217",
+      "title": "Human Computer Interaction",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "User interface development: iterative design, rapid prototyping, low-fidelity interactive prototyping, comparative evaluation of multiple interfaces, evaluation of user interface, heuristic evaluation; UI design models: system model, interface model, user model; Usability: consistency, simplicity, learnability, efficiency, safety, ergonomics, aesthetics; Accessibility: kinds of impairments, assistive technology, universal design, accessibility APIs; Internationalization and Localization: translation, text direction, sort order, formatting, color conventions, icons; User research methods: experiments, experiment design techniques, field study, survey; Multimodal signal processing: recognize human emotions through combination of spoken language, gestures, facial expressions; Case studies.",
+      "optionalGroup": "Option III",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4218",
+      "title": "Human Computer Interaction Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Human Computer Interaction.",
+      "optionalGroup": "Option III",
+      "type": "Sessional"
+    },
+    {
+      "code": "ICT 4219",
+      "title": "Strategic Management",
+      "credits": 3,
+      "contactHours": 3,
+      "semester": "Optional Courses",
+      "description": "Strategic Leadership, Competitive Advantage, Superior Performance, Performance in Nonprofit Enterprises, Strategic Manager, Strategy Making Process. Industry and Sector, market segments, Porter’s Five Forces Model, Strategic Groups, Industry Life Cycle Analysis, Macroeconomic Forces, Competitive Advantage, Value Creation and Profitability, Avoiding Failures and Sustaining Competitive Advantage. Achieving Superior Efficiency, Learning Effects, Materials Management, Strategy for Attaining superior Reliability, Responsiveness to Customers, Competitive Positioning and Business Level Strategy, Strategies in Fragmented Industries, Embryonic, Growth and Mature Industries. Format War, Strategies for wining in Format War, Information System Strategy, Managing Intellectual Property Rights, Capturing First-Mover Advantages, Technological Paradigm Shifts,",
+      "optionalGroup": "Option III",
+      "type": "Theory"
+    },
+    {
+      "code": "ICT 4220",
+      "title": "Strategic Management Sessional",
+      "credits": 0.75,
+      "contactHours": 1.5,
+      "semester": "Optional Courses",
+      "description": "Sessional based on Strategic Management.",
+      "optionalGroup": "Option III",
+      "type": "Sessional"
+    }
+  ],
+  "optionalGroups": [
+    "Option I",
+    "Option II",
+    "Option III"
+  ],
+  "sourceNotes": [
+    "Curriculum for B.Sc. in ICT, Session 2021–2022 onward, CSTU.",
+    "The distribution table lists ICT 2105/2106 for Data Communication, while the detailed section labels the same subject ICT 2107/2108. The portal preserves the distribution-table codes and displays the discrepancy in source notes.",
+    "The source lists Option-I/II/III as placeholders in semester tables; actual choices are listed separately.",
+    "The detailed description for ICT 4220 Strategic Management Sessional states “Sessional based on ICT 4217”; the portal uses the generic related-sessional description in its course page and preserves this source discrepancy here."
+  ]
+}
